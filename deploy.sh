@@ -1,2 +1,3 @@
+i am in uaut branch ....this is line is getting updated in uat branch...
 I AM IN STAGE BRRANCH
 hello this file gcontains deployment details
